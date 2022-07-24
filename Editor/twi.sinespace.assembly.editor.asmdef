@@ -1,7 +1,8 @@
 {
     "name": "twi.sinespace.assembly.editor",
     "references": [
-        "TWISinespace"
+        "twi.sinespace.assembly.runtime",
+        "Unity.EditorCoroutines.Editor"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [
